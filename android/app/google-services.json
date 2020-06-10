@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625874064464",
+    "firebase_url": "https://vexere-1d3e6.firebaseio.com",
+    "project_id": "vexere-1d3e6",
+    "storage_bucket": "vexere-1d3e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625874064464:android:3f5285e826f52b596c6d55",
+        "android_client_info": {
+          "package_name": "com.vexere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625874064464-kfn2b68llbv7eb2a6nbc5gn57v7rjlh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxGeF7ppKr8osAst44A5nWUm3vG9l4nco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625874064464-kfn2b68llbv7eb2a6nbc5gn57v7rjlh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625874064464-qc73reh954iket2m12bhtjapngp27hrg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vexere.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

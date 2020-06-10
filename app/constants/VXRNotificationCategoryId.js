@@ -1,0 +1,4 @@
+export default {
+    NOTIFICATION_INFORMATION: 0,
+    NOTIFICATION_WEB: 1
+}

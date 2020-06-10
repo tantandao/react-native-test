@@ -1,0 +1,30 @@
+{
+  "app_name": "VeXeRe",
+
+  "action_logout": "Đăng xuất",
+  "action_view_profile": "Xem chi tiết thông tin",
+
+  "button_ok": "Đồng ý",
+  "button_cancel": "Hủy bỏ",
+
+  "drawer_page_booking": "Đặt lịch",
+  "drawer_page_setting": "Cài đặt",
+  "drawer_page_support": "Hỗ trợ",
+  "drawer_page_feedback": "Góp ý",
+
+  "screen_login": "Đăng nhập",
+  "screen_home": "Trang chủ",
+  "screen_profile": "Trang thông tin",
+  "screen_message": "Tin nhắn",
+  "screen_notification": "Thông báo",
+  "screen_notification_detail": "Chi tiết",
+  "screen_more": "Khác",
+  "screen_web": "...",
+
+  "text_login": "Nhấn vào đây để đăng nhập ứng dụng",
+
+  "title_alert_logout": "Thông báo",
+  "message_alert_logout": "Bạn có chắc chắn muốn đăng xuất tài khoản?",
+  "title_alert_open_url": "Thông báo",
+  "message_alert_open_url": "Không mở được liên kết này. Vui lòng thử lại!"
+}
